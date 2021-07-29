@@ -1,1 +1,2 @@
-This is a test file
+This is a test file. For learning the git and GitHub.
+File is edited and saved.
